@@ -2,7 +2,7 @@
 
 Ported to latest Flipper Zero firmware
 
-Source:
+Info:
 https://habr.com/ru/company/flipperdevices/blog/595325/
 
 Github:
