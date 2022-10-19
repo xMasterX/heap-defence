@@ -1,4 +1,4 @@
-# heap-defence (aka Stack Attack)
+# Heap Defence Game (aka Stack Attack)
 
 Ported to latest Flipper Zero firmware
 
