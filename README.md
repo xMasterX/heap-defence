@@ -2,6 +2,8 @@
 
 Ported to latest Flipper Zero firmware
 
+Included in [Unleashed](https://github.com/DarkFlippers/unleashed-firmware/releases) Firmware 
+
 Info:
 https://habr.com/ru/company/flipperdevices/blog/595325/
 
